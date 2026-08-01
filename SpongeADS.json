@@ -25,9 +25,9 @@
   "unity_banner": "Banner_Android",
   "unity_interstitial": "Interstitial_Android",
 
-  "appLovin_app_id": "3SatniGF1C6AIhT2W8V7iPaqnB03RK8n783ZKJMrCdzAltrQxklF19RswAIfcUAFlGHHdWq8JIm6XEbCt_xW9i",
+  "appLovin_app_id": "000000000000000000000",
   "appLovin_banner": "00000000000",
-  "appLovin_interstitial": "92669bc4e7383fa9",
+  "appLovin_interstitial": "000000000000000",
 
     "gameplay_ads_mode": "aggressive",
 "min_time_before_gameplay_ads": "60",
